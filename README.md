@@ -27,7 +27,7 @@ if (Yii::$app->CAfipWsaa->checkFiles()) {
 $wsaaResponse = Yii::$app->CAfipWsaa->getResponse();
 </pre>
 
-<b><i>Solicitar un Token de acceso:</b></i>
+<b><i>Informar documento al WS de Factura Electrónica:</b></i>
 <pre>
 $this->customer = Yii::$app->user->identity->id;
 $this->ptovta = $post['AfipWsfe']['ptovta'];
