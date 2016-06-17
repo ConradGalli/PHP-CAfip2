@@ -1,6 +1,6 @@
 <h1>CAfip2</h1>
 <br>
-<p>CAfip2 son dos clases desarrolladas en PHP preparadas para Yii Framework 2 para ser utilizadas en cualquier proyecto Yii2.</p>
+<p>CAfip2 son dos clases para Yii Framework 2 para ser utilizadas en proyectos que requieran conectarse a los Web Services de AFIP.</p>
 
 <br>
 <h2>Instalación</h2>
